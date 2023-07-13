@@ -1,0 +1,3 @@
+Enter the number starting number:Enter the number end number:Enter the number multiplication number:
+Multiplication Table for for 3
+3x2
